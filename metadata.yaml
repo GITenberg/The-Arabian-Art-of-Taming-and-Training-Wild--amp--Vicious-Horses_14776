@@ -1,0 +1,32 @@
+_repo: The-Arabian-Art-of-Taming-and-Training-Wild--amp--Vicious-Horses_14776
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Stutzman, John J.
+    gutenberg_agent_id: '5681'
+    url: http://www.gutenberg.org/2009/agents/5681
+  - agent_name: Kincaid, P. R.
+    gutenberg_agent_id: '5680'
+    url: http://www.gutenberg.org/2009/agents/5680
+description:
+- Possibly based on J.S. Rarey's Modern art of taming wild horses.  See http://lccn.loc.gov/2004563353
+- Includes The Horseman's Guide and Farrier, by John J. Stutzman.
+gutenberg_bookshelf: Zoology
+gutenberg_issued: '2005-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14776'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SF'
+- !lcsh 'Horses -- Training'
+- !lcsh 'Horses'
+- !lcsh 'Horses -- Diseases'
+title: The Arabian Art of Taming and Training Wild & Vicious Horses
+url: http://www.gutenberg.org/ebooks/14776
